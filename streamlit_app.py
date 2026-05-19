@@ -13,3 +13,6 @@ st.markdown('''
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
+import streamlit as st
+
+st.balloons()
