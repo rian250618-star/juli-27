@@ -16,3 +16,6 @@ st.markdown("Here's a bouquet &mdash;\
 import streamlit as st
 
 st.balloons()
+import streamlit as st
+
+st.snow()
