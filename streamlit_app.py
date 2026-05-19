@@ -15,4 +15,4 @@ st.markdown("Here's a bouquet &mdash;\
 
 import streamlit as st
 
-st.balloons(2)
+st.balloons()
