@@ -33,3 +33,7 @@ time.sleep(1)
 my_bar.empty()
 
 st.button("Rerun")
+
+import streamlit as st
+
+st.warning('This is a warning', icon="⚠️")
